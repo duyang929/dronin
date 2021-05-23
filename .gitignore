@@ -3,7 +3,7 @@
 *.swp
 
 # /flight/
-/flight/*.pnproj
+/flight/*.pnproj 
 /flight/*.pnps
 /flight/.cproject
 /flight/.metadata
